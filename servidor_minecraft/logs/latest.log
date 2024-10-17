@@ -1,0 +1,945 @@
+[17Oct2024 00:12:04.450] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[17Oct2024 00:12:04.466] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[17Oct2024 00:12:12.426] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[17Oct2024 00:12:12.448] [main/INFO] [mixin-transmog/]: Mixin Transmogrifier is definitely up to no good...
+[17Oct2024 00:12:12.526] [main/INFO] [mixin-transmog/]: crimes against java were committed
+[17Oct2024 00:12:12.574] [main/INFO] [mixin-transmog/]: Original mixin transformation service successfully crobbed by mixin-transmogrifier!
+[17Oct2024 00:12:12.686] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/flowerpower/servidor_minecraft/mods/Connector-1.0.0-beta.45+1.20.1.jar%23160%23163!/ Service=ModLauncher Env=SERVER
+[17Oct2024 00:12:13.863] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/flowerpower/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.0/fmlcore-1.20.1-47.2.0.jar is missing mods.toml file
+[17Oct2024 00:12:13.870] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/flowerpower/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.0/javafmllanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[17Oct2024 00:12:13.874] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/flowerpower/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.0/lowcodelanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[17Oct2024 00:12:13.881] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/flowerpower/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.0/mclanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[17Oct2024 00:12:15.069] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 67 dependencies adding them to mods collection
+[17Oct2024 00:12:17.157] [main/INFO] [org.sinytra.connector.locator.DependencyResolver/]: Dependency resolution found 3 candidates to load
+[17Oct2024 00:12:21.476] [main/INFO] [org.sinytra.connector.service.hacks.ModuleLayerMigrator/]: Successfully made module authlib transformable
+[17Oct2024 00:12:25.681] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[17Oct2024 00:12:26.438] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[17Oct2024 00:12:27.045] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.19.1+mc1.20.1: 84 options available, 0 override(s) found
+[17Oct2024 00:12:27.047] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[17Oct2024 00:12:27.075] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[17Oct2024 00:12:27.267] [main/WARN] [mixin/]: Reference map 'smallships-forge-refmap.json' for smallships.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Oct2024 00:12:27.317] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Oct2024 00:12:27.321] [main/WARN] [mixin/]: Reference map 'octolib.refmap.json' for octolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Oct2024 00:12:27.516] [main/WARN] [mixin/]: Reference map 'mvs-forge-refmap.json' for mvs-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Oct2024 00:12:27.694] [main/WARN] [mixin/]: Reference map '' for adapter.init.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Oct2024 00:12:31.095] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[17Oct2024 00:12:31.096] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[17Oct2024 00:12:31.097] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin from mod relics
+[17Oct2024 00:12:31.237] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER
+[17Oct2024 00:12:31.240] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/MouseHandler (java.lang.RuntimeException: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER)
+[17Oct2024 00:12:31.241] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.MouseHandler was not found fabric-screen-api-v1.mixins.json:MouseMixin from mod fabric_screen_api_v1
+[17Oct2024 00:12:31.246] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[17Oct2024 00:12:31.250] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[17Oct2024 00:12:31.251] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found fabric-screen-api-v1.mixins.json:ScreenAccessor from mod fabric_screen_api_v1
+[17Oct2024 00:12:35.241] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[17Oct2024 00:12:37.748] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (40.52 s after launch)
+[17Oct2024 00:12:39.047] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin from mod modernfix should be final
+[17Oct2024 00:12:39.048] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin from mod modernfix should be final
+[17Oct2024 00:12:43.100] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=1 on crittersandcompanions.mixins.json:LivingEntityMixin from mod crittersandcompanions::handler$zpb000$crittersandcompanions$onDie exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[17Oct2024 00:12:47.658] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 9902 milliseconds
+[17Oct2024 00:12:55.509] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[17Oct2024 00:12:57.025] [main/INFO] [chronosacaria.mcda.Mcda/]: Registering Blocks for mcda
+[17Oct2024 00:12:58.472] [modloading-worker-0/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Found 0 RS API injection points
+[17Oct2024 00:12:58.474] [modloading-worker-0/INFO] [dev.su5ed.sinytra.connectorextras.terrablenderbridge.TerraBlenderBridge/]: Injecting TerraBlender API classes
+[17Oct2024 00:12:58.475] [modloading-worker-0/WARN] [dev.su5ed.sinytra.connectorextras.util.HackyModuleInjector/]: Module terrablender is not present, skipping class injection
+[17Oct2024 00:13:00.105] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.80.
+[17Oct2024 00:13:00.353] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[17Oct2024 00:13:00.903] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.0, for MC 1.20.1 with MCP 20230612.114412
+[17Oct2024 00:13:00.903] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.0 Initialized
+[17Oct2024 00:13:02.053] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[17Oct2024 00:13:03.399] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Warped Netherlands
+[17Oct2024 00:13:03.541] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Stalactite Caves
+[17Oct2024 00:13:03.545] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Space Wars
+[17Oct2024 00:13:03.548] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Shire
+[17Oct2024 00:13:03.549] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Desert Oasis
+[17Oct2024 00:13:03.551] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Pagoda
+[17Oct2024 00:13:03.551] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Minecolonies Original
+[17Oct2024 00:13:03.552] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Nordic Spruce
+[17Oct2024 00:13:03.553] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Spruce
+[17Oct2024 00:13:03.555] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Oak
+[17Oct2024 00:13:03.556] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Dark Oak
+[17Oct2024 00:13:03.558] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Birch
+[17Oct2024 00:13:03.559] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Lost Mesa City
+[17Oct2024 00:13:03.560] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Jungle Treehouse
+[17Oct2024 00:13:03.561] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Incan
+[17Oct2024 00:13:03.563] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Fortress
+[17Oct2024 00:13:03.564] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Dark Oak Treehouse
+[17Oct2024 00:13:03.565] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Colonial
+[17Oct2024 00:13:03.566] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Cavern
+[17Oct2024 00:13:03.572] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Caledonia
+[17Oct2024 00:13:03.574] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Urban Birch
+[17Oct2024 00:13:03.575] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Ancient Athens
+[17Oct2024 00:13:03.576] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Urban Savanna
+[17Oct2024 00:13:03.577] [Structurize IO Worker #0/WARN] [structurize/]: Failed loading packs from main folder path: .
+[17Oct2024 00:13:03.577] [Structurize IO Worker #0/WARN] [structurize/]: Failed loading client packs from main folder path: .
+[17Oct2024 00:13:03.577] [Structurize IO Worker #0/WARN] [structurize/]: Finished discovering Server Structure packs
+[17Oct2024 00:13:03.665] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
+[17Oct2024 00:13:03.675] [modloading-worker-0/ERROR] [structurize/]: ----------------------------------------------------------------- 
+ Invalid DataFixer detected, schematics might not paste correctly! 
+The following DataFixer was added: class org.embeddedt.modernfix.dfu.LazyDataFixer
+-----------------------------------------------------------------
+[17Oct2024 00:13:05.281] [main/INFO] [net.minecraft.resources.RegistryDataLoader/]: Capturing existing worldgen registries
+[17Oct2024 00:13:05.282] [main/INFO] [net.minecraft.resources.RegistryDataLoader/]: Found 0 injected RegistryDataLoader worldgen registries
+[17Oct2024 00:13:09.900] [main/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/particle/TextureSheetParticle for class it/hurts/sskirillss/octolib/particle/BasicColoredParticle in classloader cpw.mods.modlauncher.TransformingClassLoader@a95cb11 on thread Thread[#1,main,5,main]
+[17Oct2024 00:13:09.901] [main/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetParticle
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2352!/:6.0.5+6.0.5+master.eb8e549b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at java.lang.ClassLoader.defineClass0(Native Method) ~[?:?]
+	at java.lang.System$2.defineClass(System.java:2394) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup$ClassDefiner.defineClass(MethodHandles.java:2505) ~[?:?]
+	at java.lang.invoke.InnerClassLambdaMetafactory.generateInnerClass(InnerClassLambdaMetafactory.java:361) ~[?:?]
+	at java.lang.invoke.InnerClassLambdaMetafactory.spinInnerClass(InnerClassLambdaMetafactory.java:286) ~[?:?]
+	at java.lang.invoke.InnerClassLambdaMetafactory.buildCallSite(InnerClassLambdaMetafactory.java:221) ~[?:?]
+	at java.lang.invoke.LambdaMetafactory.metafactory(LambdaMetafactory.java:341) ~[?:?]
+	at java.lang.invoke.BootstrapMethodInvoker.invoke(BootstrapMethodInvoker.java:134) ~[?:?]
+	at java.lang.invoke.CallSite.makeSite(CallSite.java:316) ~[?:?]
+	at java.lang.invoke.MethodHandleNatives.linkCallSiteImpl(MethodHandleNatives.java:274) ~[?:?]
+	at java.lang.invoke.MethodHandleNatives.linkCallSite(MethodHandleNatives.java:264) ~[?:?]
+	at it.hurts.sskirillss.octolib.particle.BasicColoredParticle$Options.<clinit>(BasicColoredParticle.java:271) ~[octolib-1.20.1-0.3.jar%23207!/:1.20.1-0.3]
+	at it.hurts.sskirillss.octolib.particle.BasicColoredParticle$Factory$Type.<init>(BasicColoredParticle.java:329) ~[octolib-1.20.1-0.3.jar%23207!/:1.20.1-0.3]
+	at net.minecraftforge.registries.DeferredRegister.lambda$addEntries$1(DeferredRegister.java:386) ~[forge-1.20.1-47.2.0-universal.jar%23230!/:?]
+	at net.minecraftforge.registries.RegisterEvent.register(RegisterEvent.java:59) ~[forge-1.20.1-47.2.0-universal.jar%23230!/:?]
+	at net.minecraftforge.registries.DeferredRegister.addEntries(DeferredRegister.java:386) ~[forge-1.20.1-47.2.0-universal.jar%23230!/:?]
+	at net.minecraftforge.registries.DeferredRegister$EventDispatcher.handleEvent(DeferredRegister.java:328) ~[forge-1.20.1-47.2.0-universal.jar%23230!/:?]
+	at net.minecraftforge.registries.__EventDispatcher_handleEvent_RegisterEvent.invoke(.dynamic) ~[forge-1.20.1-47.2.0-universal.jar%23230!/:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:107) ~[javafmllanguage-1.20.1-47.2.0.jar%23227!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$postEventWithWrapInModOrder$33(ModLoader.java:346) ~[fmlcore-1.20.1-47.2.0.jar%23226!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.ModList.forEachModInOrder(ModList.java:227) ~[fmlcore-1.20.1-47.2.0.jar%23226!/:?]
+	at net.minecraftforge.fml.ModLoader.postEventWithWrapInModOrder(ModLoader.java:344) ~[fmlcore-1.20.1-47.2.0.jar%23226!/:?]
+	at net.minecraftforge.fml.ModLoader.postEventWrapContainerInModOrder(ModLoader.java:337) ~[fmlcore-1.20.1-47.2.0.jar%23226!/:?]
+	at net.minecraftforge.registries.GameData.postRegisterEvents(GameData.java:342) ~[forge-1.20.1-47.2.0-universal.jar%23230!/:?]
+	at net.minecraftforge.common.ForgeStatesProvider.lambda$new$4(ForgeStatesProvider.java:25) ~[forge-1.20.1-47.2.0-universal.jar%23230!/:?]
+	at net.minecraftforge.fml.ModLoader.handleInlineTransition(ModLoader.java:217) ~[fmlcore-1.20.1-47.2.0.jar%23226!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$dispatchAndHandleError$19(ModLoader.java:209) ~[fmlcore-1.20.1-47.2.0.jar%23226!/:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.dispatchAndHandleError(ModLoader.java:209) ~[fmlcore-1.20.1-47.2.0.jar%23226!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$gatherAndInitializeMods$13(ModLoader.java:183) ~[fmlcore-1.20.1-47.2.0.jar%23226!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:183) ~[fmlcore-1.20.1-47.2.0.jar%23226!/:?]
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:30) ~[forge-1.20.1-47.2.0-universal.jar%23230!/:?]
+	at net.minecraft.server.Main.main(Main.java:125) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[17Oct2024 00:13:13.246] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[17Oct2024 00:13:13.320] [Thread-1/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[17Oct2024 00:13:16.214] [Immersive Engineering Contributors Thread/INFO] [immersiveengineering/]: Attempting to download special revolvers from GitHub
+[17Oct2024 00:13:16.407] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
+[17Oct2024 00:13:16.805] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[17Oct2024 00:13:17.954] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: UP_TO_DATE Current: 1.20.1-1.0.9 Target: null
+[17Oct2024 00:13:17.955] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Starting version check at https://raw.githubusercontent.com/talhanation/smallships/main/update.json
+[17Oct2024 00:13:18.004] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Found status: UP_TO_DATE Current: 2.0.0-b1.4 Target: null
+[17Oct2024 00:13:18.006] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[17Oct2024 00:13:18.133] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.9.11 Target: 5.10.3
+[17Oct2024 00:13:18.134] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[17Oct2024 00:13:18.311] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.2.0 Target: 47.3.0
+[17Oct2024 00:13:18.313] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [immersiveengineering] Starting version check at https://raw.githubusercontent.com/BluSunrize/ImmersiveEngineering/1.20.1/changelog.json
+[17Oct2024 00:13:18.324] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [immersiveengineering] Found status: UP_TO_DATE Current: 1.20.1-10.1.0-171 Target: null
+[17Oct2024 00:13:18.324] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[17Oct2024 00:13:18.514] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.9 Target: 1.9.11
+[17Oct2024 00:13:20.504] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
+[17Oct2024 00:13:20.505] [main/INFO] [ribbits/]: Registering Ribbit professions...
+[17Oct2024 00:13:20.506] [main/INFO] [ribbits/]: Registering Ribbit instruments...
+[17Oct2024 00:13:20.508] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
+[17Oct2024 00:13:21.130] [main/INFO] [journeymap/]: Initializing Packet Registries
+[17Oct2024 00:13:21.145] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Reloading config/lightmanscurrency-common.lcconfig
+[17Oct2024 00:13:21.184] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: ATM Icon Type 'lightmanscurrency:item' has been registered successfully.
+[17Oct2024 00:13:21.190] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: ATM Icon Type 'lightmanscurrency:small_arrow' has been registered successfully.
+[17Oct2024 00:13:21.190] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: ATM Icon Type 'lightmanscurrency:sprite' has been registered successfully.
+[17Oct2024 00:13:21.255] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered TraderType lightmanscurrency:item_trader
+[17Oct2024 00:13:21.266] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered TraderType lightmanscurrency:item_trader_armor
+[17Oct2024 00:13:21.270] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered TraderType lightmanscurrency:item_trader_ticket
+[17Oct2024 00:13:21.271] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered TraderType lightmanscurrency:item_trader_book
+[17Oct2024 00:13:21.273] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered TraderType lightmanscurrency:slot_machine_trader
+[17Oct2024 00:13:21.274] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered TraderType lightmanscurrency:paygate
+[17Oct2024 00:13:21.285] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered TraderType lightmanscurrency:auction_house
+[17Oct2024 00:13:21.289] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered TradeRuleType lightmanscurrency:whitelist
+[17Oct2024 00:13:21.295] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered TradeRuleType lightmanscurrency:blacklist
+[17Oct2024 00:13:21.296] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered TradeRuleType lightmanscurrency:player_trade_limit
+[17Oct2024 00:13:21.297] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered TradeRuleType lightmanscurrency:discount_list
+[17Oct2024 00:13:21.298] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered TradeRuleType lightmanscurrency:timed_sale
+[17Oct2024 00:13:21.299] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered TradeRuleType lightmanscurrency:trade_limit
+[17Oct2024 00:13:21.300] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered TradeRuleType lightmanscurrency:free_sample
+[17Oct2024 00:13:21.301] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered TradeRuleType lightmanscurrency:price_fluctuation
+[17Oct2024 00:13:21.304] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered NotificationType lightmanscurrency:item_trade
+[17Oct2024 00:13:21.308] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered NotificationType lightmanscurrency:paygate_trade
+[17Oct2024 00:13:21.309] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered NotificationType lightmanscurrency:slot_machine_trade
+[17Oct2024 00:13:21.311] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered NotificationType lightmanscurrency:out_of_stock
+[17Oct2024 00:13:21.313] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered NotificationType lightmanscurrency:bank_low_balance
+[17Oct2024 00:13:21.316] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered NotificationType lightmanscurrency:auction_house_seller
+[17Oct2024 00:13:21.316] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered NotificationType lightmanscurrency:auction_house_buyer
+[17Oct2024 00:13:21.321] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered NotificationType lightmanscurrency:auction_house_seller_nobid
+[17Oct2024 00:13:21.323] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered NotificationType lightmanscurrency:auction_house_outbid
+[17Oct2024 00:13:21.325] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered NotificationType lightmanscurrency:auction_house_canceled
+[17Oct2024 00:13:21.326] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered NotificationType lightmanscurrency:text
+[17Oct2024 00:13:21.329] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered NotificationType lightmanscurrency:add_remove_ally
+[17Oct2024 00:13:21.329] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered NotificationType lightmanscurrency:add_remove_trade
+[17Oct2024 00:13:21.331] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered NotificationType lightmanscurrency:change_ally_permissions
+[17Oct2024 00:13:21.331] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered NotificationType lightmanscurrency:change_creative
+[17Oct2024 00:13:21.334] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered NotificationType lightmanscurrency:changed_name
+[17Oct2024 00:13:21.336] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered NotificationType lightmanscurrency:change_ownership
+[17Oct2024 00:13:21.336] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered NotificationType lightmanscurrency:change_settings_simple
+[17Oct2024 00:13:21.337] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered NotificationType lightmanscurrency:change_settings_advanced
+[17Oct2024 00:13:21.338] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered NotificationType lightmanscurrency:bank_deposit_player
+[17Oct2024 00:13:21.339] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered NotificationType lightmanscurrency:bank_deposit_trader
+[17Oct2024 00:13:21.339] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered NotificationType lightmanscurrency:bank_deposit_server
+[17Oct2024 00:13:21.345] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered NotificationType lightmanscurrency:bank_transfer
+[17Oct2024 00:13:21.346] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered NotificationType lightmanscurrency:bank_interest
+[17Oct2024 00:13:21.348] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered NotificationType lightmanscurrency:taxes_collected
+[17Oct2024 00:13:21.348] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered NotificationType lightmanscurrency:taxes_paid
+[17Oct2024 00:13:21.350] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered NotificationType lightmanscurrency:block_ejected
+[17Oct2024 00:13:21.351] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered NotificationCategoryType lightmanscurrency:general
+[17Oct2024 00:13:21.352] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered NotificationCategoryType lightmanscurrency:null
+[17Oct2024 00:13:21.352] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered NotificationCategoryType lightmanscurrency:trader
+[17Oct2024 00:13:21.352] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered NotificationCategoryType lightmanscurrency:bank
+[17Oct2024 00:13:21.353] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered NotificationCategoryType lightmanscurrency:auction_house
+[17Oct2024 00:13:21.353] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered NotificationCategoryType lightmanscurrency:tax_entry
+[17Oct2024 00:13:21.385] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered Item Listing serializer 'lightmanscurrency:simple'
+[17Oct2024 00:13:21.385] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered Item Listing serializer 'lightmanscurrency:random_selection'
+[17Oct2024 00:13:21.385] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered Item Listing serializer 'lightmanscurrency:enchanted_item_for_coins'
+[17Oct2024 00:13:21.388] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered Item Listing serializer 'lightmanscurrency:enchanted_book_for_coins'
+[17Oct2024 00:13:21.389] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registered Item Listing serializer 'lightmanscurrency:items_for_map'
+[17Oct2024 00:13:21.520] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[17Oct2024 00:13:21.521] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[17Oct2024 00:13:21.521] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[17Oct2024 00:13:21.526] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[17Oct2024 00:13:21.527] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[17Oct2024 00:13:21.527] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[17Oct2024 00:13:21.531] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[17Oct2024 00:13:21.532] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:bolt_cool_down for minecraft:living_entity
+[17Oct2024 00:13:22.019] [modloading-worker-0/WARN] [minecolonies/]: Register mappings
+[17Oct2024 00:13:22.328] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:22.328] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:22.329] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:22.330] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:22.331] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:22.331] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:22.331] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:22.332] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:22.332] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:22.332] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:22.332] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:22.332] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:22.333] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:22.333] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:22.333] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:22.333] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:22.333] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:22.333] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:22.334] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:22.334] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:22.334] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:22.334] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:22.334] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:22.344] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:22.345] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:22.345] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:22.346] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:22.346] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:22.346] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:22.346] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:22.346] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:22.346] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:22.347] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:22.347] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:22.347] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:22.347] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:22.347] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:22.348] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:22.348] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:22.348] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:22.348] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:22.348] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:22.348] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:22.348] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:22.348] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:22.349] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:22.349] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:22.349] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:22.901] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17Oct2024 00:13:25.610] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.611] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.611] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.611] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.612] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.614] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.614] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.615] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.615] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.616] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.616] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.616] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.617] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.617] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.618] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.618] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.618] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.619] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.619] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.619] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.620] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.620] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.621] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.621] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.621] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.622] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.622] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.623] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.623] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.624] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.624] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.625] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.625] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.626] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.629] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.629] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.629] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.630] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.630] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.639] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.639] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.640] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.640] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.644] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.644] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.646] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.647] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.647] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.903] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.903] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.904] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.906] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.907] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.907] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.908] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.909] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.909] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.910] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.911] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.911] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.912] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.912] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.913] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.913] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.914] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.914] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.915] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.915] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.915] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.916] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.917] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.918] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.918] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.919] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.919] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.920] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.921] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.923] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.924] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.926] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.926] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.927] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.927] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.928] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.928] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.928] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.929] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.929] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.929] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.930] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.930] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.930] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.931] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.931] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:25.932] [main/ERROR] [net.minecraft.Util/]: Entity mcdw:summoned_bee has no attributes
+[17Oct2024 00:13:25.932] [main/ERROR] [net.minecraft.Util/]: Entity mcda:summoned_bee has no attributes
+[17Oct2024 00:13:26.267] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/flowerpower/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23225!/assets/.mcassetsroot' uses unexpected schema
+[17Oct2024 00:13:26.269] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/flowerpower/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23225!/data/.mcassetsroot' uses unexpected schema
+[17Oct2024 00:13:36.024] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:touhou_little_maid:grant_book_on_first_join
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.2.0-universal.jar%23230!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.2.0-universal.jar%23230!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[17Oct2024 00:13:38.793] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/shelf2/biomesoplenty/willow as it's serializer returned null
+[17Oct2024 00:13:38.865] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/jacaranda/yellow as it's serializer returned null
+[17Oct2024 00:13:38.874] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/blossom/blue as it's serializer returned null
+[17Oct2024 00:13:38.877] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/magic/gray as it's serializer returned null
+[17Oct2024 00:13:38.890] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/mahogany/light_gray as it's serializer returned null
+[17Oct2024 00:13:38.893] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/blossom/lime as it's serializer returned null
+[17Oct2024 00:13:38.896] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/fir/blue as it's serializer returned null
+[17Oct2024 00:13:38.912] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/hellbark/blue as it's serializer returned null
+[17Oct2024 00:13:38.912] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/shelf2/quark/azalea as it's serializer returned null
+[17Oct2024 00:13:38.915] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/fir/lime as it's serializer returned null
+[17Oct2024 00:13:38.920] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:auction_stand/biomesoplenty/umbran as it's serializer returned null
+[17Oct2024 00:13:38.921] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/shelf/biomesoplenty/dead as it's serializer returned null
+[17Oct2024 00:13:38.965] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/umbran/cyan as it's serializer returned null
+[17Oct2024 00:13:38.984] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/redwood/brown as it's serializer returned null
+[17Oct2024 00:13:38.996] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/dead/pink as it's serializer returned null
+[17Oct2024 00:13:39.039] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/ancient/green as it's serializer returned null
+[17Oct2024 00:13:39.040] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/dead/brown as it's serializer returned null
+[17Oct2024 00:13:39.058] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/ancient/orange as it's serializer returned null
+[17Oct2024 00:13:39.081] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/mahogany/pink as it's serializer returned null
+[17Oct2024 00:13:39.089] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/jacaranda/magenta as it's serializer returned null
+[17Oct2024 00:13:39.104] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/ancient/magenta as it's serializer returned null
+[17Oct2024 00:13:39.105] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/bookshelf/biomesoplenty/mahogany as it's serializer returned null
+[17Oct2024 00:13:39.105] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/fir/purple as it's serializer returned null
+[17Oct2024 00:13:39.106] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/willow/magenta as it's serializer returned null
+[17Oct2024 00:13:39.109] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/shelf2/biomesoplenty/dead as it's serializer returned null
+[17Oct2024 00:13:39.115] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/ancient/white as it's serializer returned null
+[17Oct2024 00:13:39.117] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/palm/pink as it's serializer returned null
+[17Oct2024 00:13:39.120] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/dead/purple as it's serializer returned null
+[17Oct2024 00:13:39.127] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/blossom/black as it's serializer returned null
+[17Oct2024 00:13:39.127] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/willow/blue as it's serializer returned null
+[17Oct2024 00:13:39.129] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/shelf2/biomesoplenty/umbran as it's serializer returned null
+[17Oct2024 00:13:39.137] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/redwood/cyan as it's serializer returned null
+[17Oct2024 00:13:39.144] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/bookshelf/quark/blossom as it's serializer returned null
+[17Oct2024 00:13:39.145] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/willow/lime as it's serializer returned null
+[17Oct2024 00:13:39.147] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/shelf2/quark/blossom as it's serializer returned null
+[17Oct2024 00:13:39.150] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/mahogany/green as it's serializer returned null
+[17Oct2024 00:13:39.151] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/magic/purple as it's serializer returned null
+[17Oct2024 00:13:39.161] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/azalea/blue as it's serializer returned null
+[17Oct2024 00:13:39.161] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/magic/pink as it's serializer returned null
+[17Oct2024 00:13:39.162] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/blossom/red as it's serializer returned null
+[17Oct2024 00:13:39.162] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/azalea/light_blue as it's serializer returned null
+[17Oct2024 00:13:39.163] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/mahogany/gray as it's serializer returned null
+[17Oct2024 00:13:39.164] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/ancient/black as it's serializer returned null
+[17Oct2024 00:13:39.167] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/hellbark/purple as it's serializer returned null
+[17Oct2024 00:13:39.168] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/mahogany/black as it's serializer returned null
+[17Oct2024 00:13:39.171] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/azalea/lime as it's serializer returned null
+[17Oct2024 00:13:39.172] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/shelf/biomesoplenty/mahogany as it's serializer returned null
+[17Oct2024 00:13:39.174] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/palm/purple as it's serializer returned null
+[17Oct2024 00:13:39.180] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/palm/black as it's serializer returned null
+[17Oct2024 00:13:39.181] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/dead/gray as it's serializer returned null
+[17Oct2024 00:13:39.182] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/fir/yellow as it's serializer returned null
+[17Oct2024 00:13:39.182] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/hellbark/magenta as it's serializer returned null
+[17Oct2024 00:13:39.187] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/willow/yellow as it's serializer returned null
+[17Oct2024 00:13:39.187] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/redwood/yellow as it's serializer returned null
+[17Oct2024 00:13:39.192] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/azalea/yellow as it's serializer returned null
+[17Oct2024 00:13:39.193] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/blossom/yellow as it's serializer returned null
+[17Oct2024 00:13:39.194] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/hellbark/lime as it's serializer returned null
+[17Oct2024 00:13:39.197] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/palm/magenta as it's serializer returned null
+[17Oct2024 00:13:39.199] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/redwood/white as it's serializer returned null
+[17Oct2024 00:13:39.222] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/fir/pink as it's serializer returned null
+[17Oct2024 00:13:39.222] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/azalea/orange as it's serializer returned null
+[17Oct2024 00:13:39.224] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/azalea/light_gray as it's serializer returned null
+[17Oct2024 00:13:39.225] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/ancient/cyan as it's serializer returned null
+[17Oct2024 00:13:39.227] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:auction_stand/biomesoplenty/fir as it's serializer returned null
+[17Oct2024 00:13:39.230] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/jacaranda/purple as it's serializer returned null
+[17Oct2024 00:13:39.231] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/dead/white as it's serializer returned null
+[17Oct2024 00:13:39.232] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/azalea/white as it's serializer returned null
+[17Oct2024 00:13:39.235] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/dead/green as it's serializer returned null
+[17Oct2024 00:13:39.243] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/fir/white as it's serializer returned null
+[17Oct2024 00:13:39.245] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/redwood/purple as it's serializer returned null
+[17Oct2024 00:13:39.249] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/shelf2/biomesoplenty/magic as it's serializer returned null
+[17Oct2024 00:13:39.279] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/redwood/gray as it's serializer returned null
+[17Oct2024 00:13:39.282] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/palm/white as it's serializer returned null
+[17Oct2024 00:13:39.282] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/willow/brown as it's serializer returned null
+[17Oct2024 00:13:39.283] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/palm/green as it's serializer returned null
+[17Oct2024 00:13:39.287] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/dead/black as it's serializer returned null
+[17Oct2024 00:13:39.290] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/shelf/biomesoplenty/magic as it's serializer returned null
+[17Oct2024 00:13:39.291] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/dead/light_gray as it's serializer returned null
+[17Oct2024 00:13:39.291] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/umbran/pink as it's serializer returned null
+[17Oct2024 00:13:39.292] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/mahogany/lime as it's serializer returned null
+[17Oct2024 00:13:39.293] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/azalea/gray as it's serializer returned null
+[17Oct2024 00:13:39.294] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/bookshelf/quark/ancient as it's serializer returned null
+[17Oct2024 00:13:39.296] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/mahogany/blue as it's serializer returned null
+[17Oct2024 00:13:39.301] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/magic/light_blue as it's serializer returned null
+[17Oct2024 00:13:39.304] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/bookshelf/biomesoplenty/jacaranda as it's serializer returned null
+[17Oct2024 00:13:39.307] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/mahogany/white as it's serializer returned null
+[17Oct2024 00:13:39.307] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/dead/cyan as it's serializer returned null
+[17Oct2024 00:13:39.308] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/fir/light_gray as it's serializer returned null
+[17Oct2024 00:13:39.311] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/jacaranda/lime as it's serializer returned null
+[17Oct2024 00:13:39.314] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/umbran/purple as it's serializer returned null
+[17Oct2024 00:13:39.315] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/mahogany/purple as it's serializer returned null
+[17Oct2024 00:13:39.315] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/jacaranda/blue as it's serializer returned null
+[17Oct2024 00:13:39.319] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/jacaranda/light_blue as it's serializer returned null
+[17Oct2024 00:13:39.319] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/blossom/light_blue as it's serializer returned null
+[17Oct2024 00:13:39.320] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/palm/red as it's serializer returned null
+[17Oct2024 00:13:39.328] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/azalea/brown as it's serializer returned null
+[17Oct2024 00:13:39.331] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/ancient/gray as it's serializer returned null
+[17Oct2024 00:13:39.336] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/mahogany/brown as it's serializer returned null
+[17Oct2024 00:13:39.338] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:auction_stand/biomesoplenty/mahogany as it's serializer returned null
+[17Oct2024 00:13:39.338] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:auction_stand/biomesoplenty/hellbark as it's serializer returned null
+[17Oct2024 00:13:39.339] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:auction_stand/quark/blossom as it's serializer returned null
+[17Oct2024 00:13:39.339] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/shelf/quark/blossom as it's serializer returned null
+[17Oct2024 00:13:39.340] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/ancient/light_blue as it's serializer returned null
+[17Oct2024 00:13:39.340] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/willow/red as it's serializer returned null
+[17Oct2024 00:13:39.341] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/hellbark/light_blue as it's serializer returned null
+[17Oct2024 00:13:39.342] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/fir/black as it's serializer returned null
+[17Oct2024 00:13:39.345] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/blossom/magenta as it's serializer returned null
+[17Oct2024 00:13:39.347] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/dead/magenta as it's serializer returned null
+[17Oct2024 00:13:39.349] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/ancient/purple as it's serializer returned null
+[17Oct2024 00:13:39.350] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/shelf/biomesoplenty/fir as it's serializer returned null
+[17Oct2024 00:13:39.364] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/dead/orange as it's serializer returned null
+[17Oct2024 00:13:39.365] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/azalea/red as it's serializer returned null
+[17Oct2024 00:13:39.365] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/umbran/gray as it's serializer returned null
+[17Oct2024 00:13:39.366] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/ancient/brown as it's serializer returned null
+[17Oct2024 00:13:39.366] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/magic/blue as it's serializer returned null
+[17Oct2024 00:13:39.367] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe touhou_little_maid:memorizable_gensokyo: com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
+[17Oct2024 00:13:39.368] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/redwood/pink as it's serializer returned null
+[17Oct2024 00:13:39.369] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/magic/lime as it's serializer returned null
+[17Oct2024 00:13:39.369] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/palm/brown as it's serializer returned null
+[17Oct2024 00:13:39.373] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/redwood/light_blue as it's serializer returned null
+[17Oct2024 00:13:39.376] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/shelf/biomesoplenty/hellbark as it's serializer returned null
+[17Oct2024 00:13:39.381] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/blossom/orange as it's serializer returned null
+[17Oct2024 00:13:39.382] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/willow/purple as it's serializer returned null
+[17Oct2024 00:13:39.384] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/fir/green as it's serializer returned null
+[17Oct2024 00:13:39.384] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/azalea/pink as it's serializer returned null
+[17Oct2024 00:13:39.395] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/umbran/light_gray as it's serializer returned null
+[17Oct2024 00:13:39.396] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:auction_stand/biomesoplenty/willow as it's serializer returned null
+[17Oct2024 00:13:39.398] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/shelf/biomesoplenty/umbran as it's serializer returned null
+[17Oct2024 00:13:39.401] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/bookshelf/biomesoplenty/umbran as it's serializer returned null
+[17Oct2024 00:13:39.402] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/shelf2/biomesoplenty/palm as it's serializer returned null
+[17Oct2024 00:13:39.402] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/palm/gray as it's serializer returned null
+[17Oct2024 00:13:39.404] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/bookshelf/biomesoplenty/palm as it's serializer returned null
+[17Oct2024 00:13:39.404] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/palm/light_blue as it's serializer returned null
+[17Oct2024 00:13:39.405] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/willow/green as it's serializer returned null
+[17Oct2024 00:13:39.406] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/willow/light_gray as it's serializer returned null
+[17Oct2024 00:13:39.408] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/magic/black as it's serializer returned null
+[17Oct2024 00:13:39.409] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/jacaranda/pink as it's serializer returned null
+[17Oct2024 00:13:39.412] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/azalea/magenta as it's serializer returned null
+[17Oct2024 00:13:39.418] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/ancient/pink as it's serializer returned null
+[17Oct2024 00:13:39.418] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/shelf2/biomesoplenty/mahogany as it's serializer returned null
+[17Oct2024 00:13:39.419] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/willow/black as it's serializer returned null
+[17Oct2024 00:13:39.422] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/hellbark/cyan as it's serializer returned null
+[17Oct2024 00:13:39.428] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/umbran/yellow as it's serializer returned null
+[17Oct2024 00:13:39.429] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/ancient/light_gray as it's serializer returned null
+[17Oct2024 00:13:39.430] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/mahogany/yellow as it's serializer returned null
+[17Oct2024 00:13:39.431] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/fir/orange as it's serializer returned null
+[17Oct2024 00:13:39.444] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:auction_stand/biomesoplenty/palm as it's serializer returned null
+[17Oct2024 00:13:39.453] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/willow/white as it's serializer returned null
+[17Oct2024 00:13:39.454] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/blossom/cyan as it's serializer returned null
+[17Oct2024 00:13:39.476] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/umbran/blue as it's serializer returned null
+[17Oct2024 00:13:39.481] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/magic/white as it's serializer returned null
+[17Oct2024 00:13:39.483] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/palm/light_gray as it's serializer returned null
+[17Oct2024 00:13:39.483] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:auction_stand/biomesoplenty/magic as it's serializer returned null
+[17Oct2024 00:13:39.487] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/bookshelf/biomesoplenty/dead as it's serializer returned null
+[17Oct2024 00:13:39.488] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/umbran/lime as it's serializer returned null
+[17Oct2024 00:13:39.496] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/willow/cyan as it's serializer returned null
+[17Oct2024 00:13:39.497] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/umbran/green as it's serializer returned null
+[17Oct2024 00:13:39.497] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/magic/green as it's serializer returned null
+[17Oct2024 00:13:39.508] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/palm/yellow as it's serializer returned null
+[17Oct2024 00:13:39.509] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:auction_stand/quark/ancient as it's serializer returned null
+[17Oct2024 00:13:39.509] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/fir/gray as it's serializer returned null
+[17Oct2024 00:13:39.518] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/umbran/black as it's serializer returned null
+[17Oct2024 00:13:39.519] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/redwood/red as it's serializer returned null
+[17Oct2024 00:13:39.522] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/ancient/red as it's serializer returned null
+[17Oct2024 00:13:39.532] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/umbran/magenta as it's serializer returned null
+[17Oct2024 00:13:39.534] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/fir/brown as it's serializer returned null
+[17Oct2024 00:13:39.550] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/palm/cyan as it's serializer returned null
+[17Oct2024 00:13:39.561] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/ancient/yellow as it's serializer returned null
+[17Oct2024 00:13:39.563] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/azalea/black as it's serializer returned null
+[17Oct2024 00:13:39.567] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/jacaranda/gray as it's serializer returned null
+[17Oct2024 00:13:39.569] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/hellbark/brown as it's serializer returned null
+[17Oct2024 00:13:39.574] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/shelf/biomesoplenty/willow as it's serializer returned null
+[17Oct2024 00:13:39.576] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/azalea/green as it's serializer returned null
+[17Oct2024 00:13:39.576] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/umbran/red as it's serializer returned null
+[17Oct2024 00:13:39.576] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/shelf2/biomesoplenty/fir as it's serializer returned null
+[17Oct2024 00:13:39.577] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/dead/red as it's serializer returned null
+[17Oct2024 00:13:39.579] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/hellbark/gray as it's serializer returned null
+[17Oct2024 00:13:39.582] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/shelf/quark/ancient as it's serializer returned null
+[17Oct2024 00:13:39.583] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/mahogany/light_blue as it's serializer returned null
+[17Oct2024 00:13:39.584] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/bookshelf/biomesoplenty/redwood as it's serializer returned null
+[17Oct2024 00:13:39.593] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/dead/yellow as it's serializer returned null
+[17Oct2024 00:13:39.593] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/redwood/lime as it's serializer returned null
+[17Oct2024 00:13:39.597] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/azalea/cyan as it's serializer returned null
+[17Oct2024 00:13:39.598] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/magic/light_gray as it's serializer returned null
+[17Oct2024 00:13:39.599] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/redwood/blue as it's serializer returned null
+[17Oct2024 00:13:39.600] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/jacaranda/brown as it's serializer returned null
+[17Oct2024 00:13:39.606] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:auction_stand/biomesoplenty/redwood as it's serializer returned null
+[17Oct2024 00:13:39.606] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/shelf/biomesoplenty/palm as it's serializer returned null
+[17Oct2024 00:13:39.610] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/bookshelf/biomesoplenty/willow as it's serializer returned null
+[17Oct2024 00:13:39.619] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/willow/gray as it's serializer returned null
+[17Oct2024 00:13:39.635] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/fir/cyan as it's serializer returned null
+[17Oct2024 00:13:39.635] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/magic/red as it's serializer returned null
+[17Oct2024 00:13:39.648] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/shelf2/biomesoplenty/hellbark as it's serializer returned null
+[17Oct2024 00:13:39.649] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/hellbark/orange as it's serializer returned null
+[17Oct2024 00:13:39.652] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/magic/orange as it's serializer returned null
+[17Oct2024 00:13:39.656] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/hellbark/pink as it's serializer returned null
+[17Oct2024 00:13:39.663] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/azalea/purple as it's serializer returned null
+[17Oct2024 00:13:39.663] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/fir/light_blue as it's serializer returned null
+[17Oct2024 00:13:39.664] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/redwood/magenta as it's serializer returned null
+[17Oct2024 00:13:39.665] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/umbran/brown as it's serializer returned null
+[17Oct2024 00:13:39.677] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/bookshelf/quark/azalea as it's serializer returned null
+[17Oct2024 00:13:39.682] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/magic/brown as it's serializer returned null
+[17Oct2024 00:13:39.683] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/jacaranda/cyan as it's serializer returned null
+[17Oct2024 00:13:39.685] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/jacaranda/light_gray as it's serializer returned null
+[17Oct2024 00:13:39.696] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/ancient/blue as it's serializer returned null
+[17Oct2024 00:13:39.696] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/redwood/green as it's serializer returned null
+[17Oct2024 00:13:39.709] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/mahogany/orange as it's serializer returned null
+[17Oct2024 00:13:39.726] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/dead/lime as it's serializer returned null
+[17Oct2024 00:13:39.726] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/mahogany/cyan as it's serializer returned null
+[17Oct2024 00:13:39.727] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/dead/blue as it's serializer returned null
+[17Oct2024 00:13:39.728] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/redwood/black as it's serializer returned null
+[17Oct2024 00:13:39.728] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/shelf2/biomesoplenty/redwood as it's serializer returned null
+[17Oct2024 00:13:39.734] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/ancient/lime as it's serializer returned null
+[17Oct2024 00:13:39.735] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/blossom/purple as it's serializer returned null
+[17Oct2024 00:13:39.735] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/palm/lime as it's serializer returned null
+[17Oct2024 00:13:39.736] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/shelf2/quark/ancient as it's serializer returned null
+[17Oct2024 00:13:39.741] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/palm/orange as it's serializer returned null
+[17Oct2024 00:13:39.742] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/umbran/light_blue as it's serializer returned null
+[17Oct2024 00:13:39.745] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/blossom/white as it's serializer returned null
+[17Oct2024 00:13:39.756] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/umbran/orange as it's serializer returned null
+[17Oct2024 00:13:39.756] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/hellbark/white as it's serializer returned null
+[17Oct2024 00:13:39.757] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/bookshelf/biomesoplenty/fir as it's serializer returned null
+[17Oct2024 00:13:39.764] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/palm/blue as it's serializer returned null
+[17Oct2024 00:13:39.765] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/shelf/biomesoplenty/jacaranda as it's serializer returned null
+[17Oct2024 00:13:39.765] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/blossom/pink as it's serializer returned null
+[17Oct2024 00:13:39.766] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/redwood/light_gray as it's serializer returned null
+[17Oct2024 00:13:39.766] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/shelf/quark/azalea as it's serializer returned null
+[17Oct2024 00:13:39.783] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/hellbark/green as it's serializer returned null
+[17Oct2024 00:13:39.783] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/willow/pink as it's serializer returned null
+[17Oct2024 00:13:39.788] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/jacaranda/orange as it's serializer returned null
+[17Oct2024 00:13:39.788] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/blossom/green as it's serializer returned null
+[17Oct2024 00:13:39.789] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:auction_stand/quark/azalea as it's serializer returned null
+[17Oct2024 00:13:39.793] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/magic/cyan as it's serializer returned null
+[17Oct2024 00:13:39.798] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/hellbark/black as it's serializer returned null
+[17Oct2024 00:13:39.799] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/hellbark/red as it's serializer returned null
+[17Oct2024 00:13:39.799] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/mahogany/magenta as it's serializer returned null
+[17Oct2024 00:13:39.801] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/shelf2/biomesoplenty/jacaranda as it's serializer returned null
+[17Oct2024 00:13:39.801] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:auction_stand/biomesoplenty/jacaranda as it's serializer returned null
+[17Oct2024 00:13:39.804] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/shelf/biomesoplenty/redwood as it's serializer returned null
+[17Oct2024 00:13:39.806] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/blossom/brown as it's serializer returned null
+[17Oct2024 00:13:39.806] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/mahogany/red as it's serializer returned null
+[17Oct2024 00:13:39.807] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/magic/magenta as it's serializer returned null
+[17Oct2024 00:13:39.808] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/willow/light_blue as it's serializer returned null
+[17Oct2024 00:13:39.808] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/jacaranda/red as it's serializer returned null
+[17Oct2024 00:13:39.810] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/umbran/white as it's serializer returned null
+[17Oct2024 00:13:39.825] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/bookshelf/biomesoplenty/magic as it's serializer returned null
+[17Oct2024 00:13:39.839] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/magic/yellow as it's serializer returned null
+[17Oct2024 00:13:39.841] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/fir/magenta as it's serializer returned null
+[17Oct2024 00:13:39.841] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:auction_stand/biomesoplenty/dead as it's serializer returned null
+[17Oct2024 00:13:39.842] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/hellbark/yellow as it's serializer returned null
+[17Oct2024 00:13:39.845] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/jacaranda/black as it's serializer returned null
+[17Oct2024 00:13:39.853] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/fir/red as it's serializer returned null
+[17Oct2024 00:13:39.859] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/dead/light_blue as it's serializer returned null
+[17Oct2024 00:13:39.860] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/blossom/light_gray as it's serializer returned null
+[17Oct2024 00:13:39.861] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/bookshelf/biomesoplenty/hellbark as it's serializer returned null
+[17Oct2024 00:13:39.862] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/jacaranda/white as it's serializer returned null
+[17Oct2024 00:13:39.864] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/jacaranda/green as it's serializer returned null
+[17Oct2024 00:13:39.864] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/redwood/orange as it's serializer returned null
+[17Oct2024 00:13:39.867] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/quark/blossom/gray as it's serializer returned null
+[17Oct2024 00:13:39.867] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/willow/orange as it's serializer returned null
+[17Oct2024 00:13:39.871] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe lightmanscurrency:traders/card_display/biomesoplenty/hellbark/light_gray as it's serializer returned null
+[17Oct2024 00:13:39.893] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 35 recipes
+[17Oct2024 00:13:40.050] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
+[17Oct2024 00:13:40.197] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[17Oct2024 00:13:40.231] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
+[17Oct2024 00:13:40.241] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[17Oct2024 00:13:40.392] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4502 advancements
+[17Oct2024 00:13:40.398] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
+[17Oct2024 00:13:40.436] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
+[17Oct2024 00:13:40.452] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
+[17Oct2024 00:13:40.456] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[17Oct2024 00:13:40.464] [main/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: CoinsInChestModifier was deserialized!
+[17Oct2024 00:13:40.465] [main/INFO] [minecolonies/]: Beginning load of custom recipes for colony workers
+[17Oct2024 00:13:40.476] [main/INFO] [minecolonies/]: Loaded 164 recipes for 16 crafters
+[17Oct2024 00:13:40.476] [main/INFO] [minecolonies/]: Beginning load of research for University.
+[17Oct2024 00:13:40.625] [main/INFO] [minecolonies/]: Loaded 201 recipes for 4 research branches
+[17Oct2024 00:13:40.634] [main/INFO] [minecolonies/]: Loading quests from data
+[17Oct2024 00:13:40.649] [main/INFO] [minecolonies/]: Finished loading quests from data
+[17Oct2024 00:13:40.664] [main/WARN] [minecolonies/]: Read 1499 items with their nbt keys for compatibility.
+[17Oct2024 00:13:41.771] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[17Oct2024 00:13:41.772] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[17Oct2024 00:13:41.772] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[17Oct2024 00:13:41.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[17Oct2024 00:13:41.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[17Oct2024 00:13:42.461] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[17Oct2024 00:13:42.820] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17Oct2024 00:13:42.821] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[17Oct2024 00:13:42.821] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17Oct2024 00:13:42.821] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[17Oct2024 00:13:42.878] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[17Oct2024 00:13:43.066] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[17Oct2024 00:13:43.071] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
+[17Oct2024 00:13:43.075] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
+[17Oct2024 00:13:43.075] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[17Oct2024 00:13:43.079] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
+[17Oct2024 00:13:43.090] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[17Oct2024 00:13:43.090] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
+[17Oct2024 00:13:43.091] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
+[17Oct2024 00:13:43.091] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[17Oct2024 00:13:43.092] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
+[17Oct2024 00:13:43.391] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registering banker trades.
+[17Oct2024 00:13:43.394] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Registering cashier trades.
+[17Oct2024 00:13:43.440] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Reloading Money Data
+[17Oct2024 00:13:43.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "totopia"
+[17Oct2024 00:13:44.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[17Oct2024 00:13:46.331] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Oct2024 00:13:46.332] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Oct2024 00:13:46.333] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Oct2024 00:13:46.333] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Oct2024 00:13:47.397] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Oct2024 00:13:47.401] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Oct2024 00:13:47.558] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Oct2024 00:13:49.514] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Oct2024 00:13:50.241] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Oct2024 00:13:50.317] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Oct2024 00:13:50.413] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Oct2024 00:13:50.497] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Oct2024 00:13:50.611] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Oct2024 00:13:51.065] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Oct2024 00:13:51.558] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Oct2024 00:13:52.943] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8385 ms
+[17Oct2024 00:13:52.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.097s)! For help, type "help"
+[17Oct2024 00:13:53.774] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[17Oct2024 00:13:54.078] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Reloading config/lightmanscurrency-server.lcconfig
+[17Oct2024 00:13:55.072] [Server thread/INFO] [minecolonies/]: Finished discovering Ores 29 32
+[17Oct2024 00:13:55.073] [Server thread/INFO] [minecolonies/]: Finished discovering saplings 14
+[17Oct2024 00:13:55.074] [Server thread/INFO] [minecolonies/]: Finished discovering plantables 19
+[17Oct2024 00:13:55.075] [Server thread/INFO] [minecolonies/]: Finished discovering food 134 157
+[17Oct2024 00:13:55.075] [Server thread/INFO] [minecolonies/]: Finished discovering fuel 397
+[17Oct2024 00:13:55.076] [Server thread/INFO] [minecolonies/]: Finished discovering flowers 31
+[17Oct2024 00:13:55.076] [Server thread/INFO] [minecolonies/]: Finished discovering items 6770
+[17Oct2024 00:13:55.077] [Server thread/INFO] [minecolonies/]: Finished discovering lucky oreBlocks 6
+[17Oct2024 00:13:55.077] [Server thread/INFO] [minecolonies/]: Finished discovering recruitment costs
+[17Oct2024 00:13:55.081] [Server thread/INFO] [minecolonies/]: Finished discovering diseases
+[17Oct2024 00:13:55.098] [Server thread/INFO] [minecolonies/]: Finished discovering compostables 264
+[17Oct2024 00:13:56.176] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 scientific_smock_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.181] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 tropic_helmet, missing knowledge for {1 water_bucket=1.0}
+[17Oct2024 00:13:56.186] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 chemical_protection_helmet, missing knowledge for {1 base_helmet=1.0}
+[17Oct2024 00:13:56.187] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 builder_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.188] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 death_king_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.191] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 comissioner_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.194] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 philosopher_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.195] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 space_pilot_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.196] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 festivity_leggings, missing knowledge for {1 garland_helmet=1.0, 1 base_leggings=1.0}
+[17Oct2024 00:13:56.196] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 apron_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.198] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 space_pilot_helmet, missing knowledge for {1 base_helmet=1.0}
+[17Oct2024 00:13:56.246] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 hev_helmet, missing knowledge for {1 base_helmet=1.0}
+[17Oct2024 00:13:56.247] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 combine_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.247] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 redynines_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.247] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 brown_shirt_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.247] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 green_jumpsuit_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.248] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 demon_hunter_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.248] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 ninja_hood_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.248] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 racers_helmet_helmet, missing knowledge for {1 base_helmet=1.0}
+[17Oct2024 00:13:56.248] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 soldier_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.248] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 prisoner_boots, missing knowledge for {1 base_boots=1.0}
+[17Oct2024 00:13:56.248] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 police_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.254] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 comissioner_boots, missing knowledge for {1 base_boots=1.0}
+[17Oct2024 00:13:56.254] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 courier_helmet, missing knowledge for {1 base_helmet=1.0}
+[17Oct2024 00:13:56.257] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 golden_empire_clothes_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.257] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 space_suit_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.257] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 demon_hunter_helmet, missing knowledge for {1 base_helmet=1.0}
+[17Oct2024 00:13:56.258] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 swat_boots, missing knowledge for {1 base_boots=1.0}
+[17Oct2024 00:13:56.258] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 new_year_helmet, missing knowledge for {1 base_helmet=1.0}
+[17Oct2024 00:13:56.259] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 apron_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.260] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 hev_boots, missing knowledge for {1 base_boots=1.0}
+[17Oct2024 00:13:56.260] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 guards_armor_leggings, missing knowledge for {1 leather_leggings=1.0}
+[17Oct2024 00:13:56.260] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 green_cloak_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.261] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 tomy_boots, missing knowledge for {1 base_boots=1.0}
+[17Oct2024 00:13:56.261] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 phoenix_helmet, missing knowledge for {1 base_helmet=1.0}
+[17Oct2024 00:13:56.261] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 pilots_helmet_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.262] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 guards_armor_helmet, missing knowledge for {1 leather_helmet=1.0}
+[17Oct2024 00:13:56.262] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 bodyarmor_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.263] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 cowboy_boots, missing knowledge for {1 base_boots=1.0}
+[17Oct2024 00:13:56.263] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 wolfs_skin_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.273] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 blue_helmet, missing knowledge for {1 base_helmet=1.0}
+[17Oct2024 00:13:56.274] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 shooter_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.276] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 kings_cloak_helmet, missing knowledge for {1 base_helmet=1.0}
+[17Oct2024 00:13:56.277] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 death_king_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.278] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 black_work_apron_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.279] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 battle_royale_boots, missing knowledge for {1 base_boots=1.0}
+[17Oct2024 00:13:56.280] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 work_apron_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.280] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 battle_royale_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.280] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 swat_helmet, missing knowledge for {1 base_helmet=1.0}
+[17Oct2024 00:13:56.281] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 chemical_protection_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.281] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mafia_boots, missing knowledge for {1 base_boots=1.0}
+[17Oct2024 00:13:56.282] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 gunster_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.282] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 vampirs_mantle_helmet, missing knowledge for {1 base_helmet=1.0}
+[17Oct2024 00:13:56.283] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 comissioner_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.283] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 wanderer_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.284] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 gray_jacket_helmet, missing knowledge for {1 base_helmet=1.0}
+[17Oct2024 00:13:56.290] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 captain_helmet, missing knowledge for {1 base_helmet=1.0}
+[17Oct2024 00:13:56.290] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 police_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.291] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mafia_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.291] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 golden_empire_clothes_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.291] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 engineer_boots, missing knowledge for {1 base_boots=1.0}
+[17Oct2024 00:13:56.292] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 leaders_tape_chestplate, missing knowledge for {1 tape_chestplate=1.0}
+[17Oct2024 00:13:56.294] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 balaclava_helmet, missing knowledge for {1 base_helmet=1.0}
+[17Oct2024 00:13:56.295] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 galactic_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.295] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mafia_helmet, missing knowledge for {1 base_helmet=1.0}
+[17Oct2024 00:13:56.305] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 fox_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.306] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 taiga_hunter_helmet, missing knowledge for {1 base_helmet=1.0}
+[17Oct2024 00:13:56.306] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 goat_gear_helmet, missing knowledge for {1 leather_helmet=1.0}
+[17Oct2024 00:13:56.307] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 shooter_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.307] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mafia_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.308] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 miner_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.309] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 battle_royale_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.309] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 green_cloak_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.310] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 taiga_hunter_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.312] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 engineer_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.316] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 taiga_hunter_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.322] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 welders_mask_helmet, missing knowledge for {1 base_helmet=1.0}
+[17Oct2024 00:13:56.323] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 combine_helmet, missing knowledge for {1 base_helmet=1.0}
+[17Oct2024 00:13:56.325] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 subject_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.325] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 soldier_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.326] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 thiefs_armor_boots, missing knowledge for {1 base_boots=1.0}
+[17Oct2024 00:13:56.329] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 wolfs_t_shirt_boots, missing knowledge for {1 base_boots=1.0}
+[17Oct2024 00:13:56.329] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 combine_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.330] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 pumpkin_helmet, missing knowledge for {1 base_helmet=1.0}
+[17Oct2024 00:13:56.337] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 emperor_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.337] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 kings_cloak_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.338] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 thiefs_armor_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.339] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 swat_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.344] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 miner_helmet, missing knowledge for {1 builder_helmet=1.0}
+[17Oct2024 00:13:56.345] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 tomy_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.346] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 black_shirt_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.346] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 subject_boots, missing knowledge for {1 base_boots=1.0}
+[17Oct2024 00:13:56.347] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 swat_chestplate, missing knowledge for {1 bodyarmor_chestplate=1.0, 1 base_chestplate=1.0}
+[17Oct2024 00:13:56.347] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 copper_c_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.348] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 redynines_boots, missing knowledge for {1 base_boots=1.0}
+[17Oct2024 00:13:56.348] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 staff_growing_staff, missing knowledge for {1 staff_battlestaff=1.0}
+[17Oct2024 00:13:56.350] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 demon_hunter_boots, missing knowledge for {1 base_boots=1.0}
+[17Oct2024 00:13:56.351] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 tomy_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.352] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 black_work_apron_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.354] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 captain_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.359] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 miner_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.360] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 skilfulkit_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.360] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 miner_boots, missing knowledge for {1 base_boots=1.0}
+[17Oct2024 00:13:56.361] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 emperor_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.365] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 builder_helmet, missing knowledge for {1 base_helmet=1.0}
+[17Oct2024 00:13:56.366] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 copper_c_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.373] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 cosmic_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.374] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 leather_cloak_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.375] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 golden_boss_helmet, missing knowledge for {1 base_helmet=1.0}
+[17Oct2024 00:13:56.376] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 red_jacket_helmet, missing knowledge for {1 base_helmet=1.0}
+[17Oct2024 00:13:56.377] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 golden_boss_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.379] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 gauntlet_soul_fists, missing knowledge for {1 gauntlet_gauntlet=1.0}
+[17Oct2024 00:13:56.380] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 rob_helmet, missing knowledge for {1 base_helmet=1.0}
+[17Oct2024 00:13:56.383] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 combine_boots, missing knowledge for {1 base_boots=1.0}
+[17Oct2024 00:13:56.389] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 space_pilot_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.390] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 love_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.393] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 white_shirt_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.397] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 cosmic_helmet, missing knowledge for {1 base_helmet=1.0}
+[17Oct2024 00:13:56.398] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 work_apron_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.402] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 engineer_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.403] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 green_bathrobe_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.404] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 emperor_boots, missing knowledge for {1 base_boots=1.0}
+[17Oct2024 00:13:56.421] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 guards_armor_chestplate, missing knowledge for {1 leather_chestplate=1.0}
+[17Oct2024 00:13:56.422] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 philosopher_boots, missing knowledge for {1 base_boots=1.0}
+[17Oct2024 00:13:56.423] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 tropic_chestplate, missing knowledge for {1 water_bucket=1.0, 1 base_chestplate=1.0}
+[17Oct2024 00:13:56.423] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 hev_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.424] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 demon_hunter_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.431] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 prisoner_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.432] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 gardener_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.432] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 leather_cloak_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.434] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 space_suit_helmet, missing knowledge for {1 base_helmet=1.0}
+[17Oct2024 00:13:56.447] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 thiefs_hood_helmet, missing knowledge for {1 base_helmet=1.0}
+[17Oct2024 00:13:56.447] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 space_suit_boots, missing knowledge for {1 base_boots=1.0}
+[17Oct2024 00:13:56.448] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 half_moon_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.451] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 black_shirt_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.454] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 builder_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.455] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 radiator, missing knowledge for {1 water_bucket=0.25}
+[17Oct2024 00:13:56.458] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 space_suit_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.459] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 gray_undershirt_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.467] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 guards_armor_boots, missing knowledge for {1 leather_boots=1.0}
+[17Oct2024 00:13:56.470] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 spring_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.474] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 soldier_boots, missing knowledge for {1 base_boots=1.0}
+[17Oct2024 00:13:56.478] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 hammer_bone_cudgel, missing knowledge for {1 hammer_boneclub=1.0}
+[17Oct2024 00:13:56.487] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 gunster_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.488] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 green_bathrobe_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.488] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 thiefs_armor_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.495] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 captain_leggings, missing knowledge for {1 base_leggings=1.0}
+[17Oct2024 00:13:56.496] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 hev_chestplate, missing knowledge for {1 base_chestplate=1.0}
+[17Oct2024 00:13:56.496] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 staff_battlestaff_of_terror, missing knowledge for {1 staff_battlestaff=1.0}
+[17Oct2024 00:13:56.496] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 copper_c_boots, missing knowledge for {1 base_boots=1.0}
+[17Oct2024 00:13:56.497] [Server thread/INFO] [immersiveengineering/]: Finished recipe profiler for Arc Recycling, took 945 milliseconds
+[17Oct2024 00:13:56.501] [Server thread/WARN] [ModernFix/]: Dedicated server took 119.278 seconds to load
+[17Oct2024 00:13:56.512] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Loaded NextID (23) from tag.
+[17Oct2024 00:13:58.421] [Server thread/INFO] [ModernFix/]: Made Refined Storage shape cache map thread-safe
+[17Oct2024 00:13:58.940] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-211, y=132, z=-250} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=west,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[17Oct2024 00:13:58.941] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-214, y=132, z=-251} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[17Oct2024 00:13:59.144] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2341ms or 46 ticks behind
+[17Oct2024 00:14:45.247] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nach[/100.113.232.99:57418] logged in with entity id 222 at (-319.59139430996026, 144.5, -340.39359363764686)
+[17Oct2024 00:14:45.505] [Netty Epoll Server IO #2/INFO] [immersiveengineering/]: Recipes for potions: minecraft:slow_falling, minecraft:long_fire_resistance, minecraft:strong_healing, minecraft:strong_harming, minecraft:long_leaping, minecraft:poison, minecraft:strong_poison, minecraft:strong_slowness, minecraft:regeneration, minecraft:fire_resistance, minecraft:long_turtle_master, minecraft:long_slow_falling, minecraft:strong_strength, minecraft:invisibility, minecraft:strong_swiftness, minecraft:harming, minecraft:strong_regeneration, minecraft:long_water_breathing, minecraft:long_slowness, minecraft:long_poison, minecraft:healing, minecraft:leaping, minecraft:water_breathing, minecraft:awkward, minecraft:long_regeneration, minecraft:swiftness, minecraft:long_invisibility, minecraft:water, minecraft:night_vision, minecraft:strong_leaping, minecraft:long_strength, minecraft:weakness, minecraft:slowness, minecraft:strength, minecraft:turtle_master, minecraft:long_weakness, minecraft:long_swiftness, minecraft:long_night_vision, minecraft:strong_turtle_master
+[17Oct2024 00:14:45.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach joined the game
+[17Oct2024 00:14:46.701] [Server thread/INFO] [structurize/]: New Server UUID 18916bb2-18a3-4198-a83e-e61fd6bc82ef
+[17Oct2024 00:14:47.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2309ms or 46 ticks behind
+[17Oct2024 00:14:57.648] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jeruuk[/100.92.187.4:61636] logged in with entity id 262 at (-323.5120244533883, 145.0, -338.4723936666986)
+[17Oct2024 00:14:57.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk joined the game
+[17Oct2024 00:36:50.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported Jeruuk to Nach]
+[17Oct2024 00:41:39.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach has made the advancement [Local Brewery]
+[17Oct2024 00:59:34.831] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeruuk lost connection: Disconnected
+[17Oct2024 00:59:34.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk left the game
+[17Oct2024 01:16:07.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Gave 1 [Merchant Ribbit Spawn Egg] to Nach]
+[17Oct2024 01:16:50.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Gave 1 [Nitwit Ribbit Spawn Egg] to Nach]
+[17Oct2024 01:17:07.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Gave 1 [Fisherman Ribbit Spawn Egg] to Nach]
+[17Oct2024 01:17:19.262] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nach lost connection: Disconnected
+[17Oct2024 01:17:19.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach left the game

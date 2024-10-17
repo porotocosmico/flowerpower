@@ -1,0 +1,4985 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-10-05 17:34:18 +0000"
+    },
+    "done": true
+  },
+  "touhou_little_maid:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2024-10-05 17:34:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-10-05 17:34:18 +0000"
+    },
+    "done": true
+  },
+  "touhou_little_maid:give_smart_slab": {
+    "criteria": {
+      "tick": "2024-10-05 17:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2024-10-05 17:37:58 +0000",
+      "minecraft:dark_forest": "2024-10-05 17:34:20 +0000",
+      "minecraft:grove": "2024-10-05 17:35:54 +0000",
+      "minecraft:jagged_peaks": "2024-10-05 17:39:58 +0000",
+      "minecraft:lush_caves": "2024-10-08 17:42:41 +0000",
+      "minecraft:frozen_peaks": "2024-10-05 17:37:53 +0000"
+    },
+    "done": false
+  },
+  "mcdw:recipes/axes/axe_axe": {
+    "criteria": {
+      "has_iron_axe": "2024-10-05 17:47:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_axe": "2024-10-05 17:47:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_axe": "2024-10-05 17:47:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_crimson_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/motion_activated_light": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_jungle_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/fabric_bolt_light_blue": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/fabric_bolt_yellow": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/torch": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/fabric_bolt_brown": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_acacia_fence": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/fabric_bolt_blue": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/fabric_bolt_lime": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sonic_security_system": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_birch_fence": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_dark_oak_fence": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_oak_fence": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/fabric_bolt_gray": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/fabric_bolt_red": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_bamboo_fence": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_crimson_fence": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/fabric_bolt_purple": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/fabric_bolt_orange": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/flint_knife": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/shapetool": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_verdant": {
+    "criteria": {
+      "has_core_specification_item": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/building_blocks/blockbarreldeco_onside": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/fabric_bolt_magenta": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_jungle_fence": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/fabric_bolt_green": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_warped_fence": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/fabric_bolt_black": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/fabric_bolt_cyan": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_cherry_fence": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/fabric_bolt_white": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/fabric_bolt_pink": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_mangrove_fence": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/building_blocks/blockbarreldeco_standing": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cutting_board": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/fabric_bolt_light_gray": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_spruce_fence": {
+    "criteria": {
+      "has_stick": "2024-10-05 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-10-05 17:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-10-05 17:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-10-05 17:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2024-10-05 17:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-10-05 17:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-10-05 17:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-10-05 17:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-10-05 17:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-10-05 17:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2024-10-05 17:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-10-05 17:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-10-05 17:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-10-05 17:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-10-05 17:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-10-05 17:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2024-10-05 17:59:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/laser_block": {
+    "criteria": {
+      "has_stone": "2024-10-05 17:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2024-10-05 17:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-10-05 17:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-10-05 17:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-10-05 17:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-10-05 17:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2024-10-05 17:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2024-10-05 18:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2024-10-05 18:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2024-10-05 18:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2024-10-05 18:02:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/large_empty_bottle": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2024-10-05 18:20:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2024-10-05 18:24:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2024-10-05 18:24:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2024-10-05 18:24:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2024-10-05 18:24:46 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_oceanic": {
+    "criteria": {
+      "has_core_specification_item": "2024-10-05 18:42:13 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_bubble_bow": {
+    "criteria": {
+      "has_water_bucket": "2024-10-05 18:42:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-10-05 18:42:13 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/radiator": {
+    "criteria": {
+      "has_water_bucket": "2024-10-05 18:42:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_pillar": "2024-10-05 18:43:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_pillar": "2024-10-05 18:43:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_pillar": "2024-10-05 18:43:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_pillar": "2024-10-05 18:43:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2024-10-05 19:24:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2024-10-05 19:24:37 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/glaives/spear_venom_glaive": {
+    "criteria": {
+      "has_vine": "2024-10-05 19:24:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2024-10-05 19:24:37 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/whips/whip_vine_whip": {
+    "criteria": {
+      "has_vine": "2024-10-05 19:24:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2024-10-05 19:24:37 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/axes/axe_encrusted_anchor": {
+    "criteria": {
+      "has_vine": "2024-10-05 19:24:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2024-10-05 19:27:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "glow_berries": "2024-10-05 19:27:34 +0000",
+      "kelp": "2024-10-05 19:50:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2024-10-05 19:32:35 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_galley": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_cog": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_cog": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_cog": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_brigg": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_galley": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_drakkar": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_brigg": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_brigg": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_galley": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_cog": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_drakkar": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/misc/sail": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_galley": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_galley": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_galley": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_brigg": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_drakkar": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_brigg": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_cog": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_cog": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_galley": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_brigg": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_galley": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_cog": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_drakkar": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_drakkar": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_drakkar": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_drakkar": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_brigg": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_drakkar": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_galley": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_brigg": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_brigg": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_drakkar": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_cog": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_cog": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-10-05 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-10-05 19:40:54 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_chestplate": {
+    "criteria": {
+      "has_soul_sand": "2024-10-05 19:40:54 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_feral_soul": {
+    "criteria": {
+      "has_soul_sand": "2024-10-05 19:40:54 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_haunted_bow": {
+    "criteria": {
+      "has_soul_sand": "2024-10-05 19:40:54 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_helmet": {
+    "criteria": {
+      "has_soul_sand": "2024-10-05 19:40:54 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_soul_bow": {
+    "criteria": {
+      "has_soul_sand": "2024-10-05 19:40:54 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_soul_hunter": {
+    "criteria": {
+      "has_soul_sand": "2024-10-05 19:40:54 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_boots": {
+    "criteria": {
+      "has_soul_sand": "2024-10-05 19:40:54 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_soul": {
+    "criteria": {
+      "has_soul_sand": "2024-10-05 19:40:54 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/glaives/spear_grave_bane": {
+    "criteria": {
+      "has_soul_sand": "2024-10-05 19:40:54 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_leggings": {
+    "criteria": {
+      "has_soul_sand": "2024-10-05 19:40:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-10-05 19:40:54 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_soul": {
+    "criteria": {
+      "has_core_specification_item": "2024-10-05 19:40:54 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_soul_knife": {
+    "criteria": {
+      "has_soul_sand": "2024-10-05 19:40:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-10-05 19:50:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-10-05 19:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-10-05 19:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-10-05 20:05:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_light_blue": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/bamboo/cyan": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/warped/lime": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/orange": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/oak/brown": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/jungle/yellow": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/crimson/blue": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/cherry/light_blue": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/jungle/black": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/spruce/cyan": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf/jungle": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/magenta": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf/cherry": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/lime": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/vending_machine/dye_orange": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/warped/red": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_gray": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/blue": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/purple": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/vending_machine/dye_purple": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/crimson/lime": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/white": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/crimson/green": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/acacia/brown": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/warped/white": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/warped/light_gray": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/oak/yellow": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/birch/red": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf2/acacia": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/cyan": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf/crimson": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/spruce/blue": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/freezer/brown": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/bamboo/light_gray": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/jungle/green": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/spruce/lime": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/vending_machine/dye_light_blue": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf2/bamboo": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_red": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/bamboo/white": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/freezer/purple": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/crimson/yellow": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/warped/light_blue": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/mangrove/blue": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_lime": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/warped/cyan": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/birch/brown": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/crimson/cyan": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/warped/green": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/bookshelf/warped": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/bamboo/yellow": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/cherry/brown": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/mangrove/lime": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/cash_register": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/acacia/light_blue": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/spruce/yellow": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/bookshelf/birch": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf/warped": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf2/dark_oak": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/warped/black": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/vending_machine/dye_cyan": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf2/oak": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/bookshelf/bamboo": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/birch/gray": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/freezer/light_blue": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/bamboo/lime": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf/dark_oak": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/bookshelf/oak": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/bookshelf/mangrove": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/acacia/pink": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/warped/blue": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/bamboo/blue": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/vending_machine/dye_red": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/spruce/red": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/warped/brown": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/display_case": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/auction_stand/bamboo": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/acacia/cyan": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/bamboo/red": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/vending_machine/dye_pink": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/jungle/pink": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/freezer/pink": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/crimson/magenta": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_purple": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/freezer/light_gray": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/black": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/oak/gray": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_light_gray": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/birch/yellow": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/acacia/yellow": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_pink": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_orange": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/freezer/red": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/bookshelf/crimson": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/vending_machine/dye_light_gray": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/spruce/light_gray": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/crimson/red": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_brown": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/auction_stand/oak": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf2/warped": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/gray": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/crimson/light_gray": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/mangrove/brown": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/crimson/brown": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/green": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/oak/blue": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/item_trader_interface": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/oak/red": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/vending_machine/dye_green": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/bamboo/purple": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/birch/pink": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/spruce/light_blue": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/spruce/magenta": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/cherry/orange": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/cherry/purple": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/warped/orange": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/auction_stand/dark_oak": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/warped/gray": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/bamboo/light_blue": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/jungle/white": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/jungle/light_gray": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/bookshelf/cherry": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/crimson/gray": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/bamboo/brown": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/mangrove/gray": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/cherry/light_gray": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/freezer/yellow": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/yellow": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/auction_stand/warped": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/mangrove/light_blue": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/auction_stand/acacia": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/terminal": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/vending_machine/dye_black": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/oak/lime": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/freezer/white": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/birch/light_gray": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/cherry/pink": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/terminal_swap": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/spruce/orange": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/freezer/black": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/acacia/black": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/pink": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/freezer/gray": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/acacia/gray": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf2/birch": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/birch/white": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf2/jungle": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf2/cherry": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/acacia/green": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/jungle/brown": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/vending_machine/dye_gray": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/freezer/green": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/spruce/purple": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/large_vending_machine/washing": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/spruce/black": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/bookshelf/spruce": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/jungle/purple": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/spruce/pink": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/crimson/purple": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/oak/green": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/birch/light_blue": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/birch/green": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/mangrove/magenta": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/slot_machine": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_magenta": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/oak/cyan": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/warped/purple": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/oak/black": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/copy_template": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/freezer/magenta": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/light_blue": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/vending_machine/washing": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/birch/black": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/spruce/green": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/portable_gem_terminal_swap": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/bookshelf/jungle": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/vending_machine": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/vending_machine/dye_magenta": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf/bamboo": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf2/crimson": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/auction_stand/mangrove": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/oak/orange": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/jungle/red": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/bamboo/orange": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/mangrove/light_gray": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/auction_stand/cherry": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf2/spruce": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/crimson/light_blue": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/armor_display": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/spruce/white": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/paygate": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/acacia/lime": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/warped/pink": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/mangrove/yellow": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/oak/light_gray": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/freezer/blue": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/acacia/blue": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/vending_machine/dye_yellow": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/bamboo/pink": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/cherry/gray": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf/birch": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/cherry/black": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/jungle/cyan": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/freezer/lime": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/oak/purple": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/crimson/pink": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/jungle/light_blue": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/mangrove/pink": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf/acacia": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/cherry/green": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/crimson/orange": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/acacia/purple": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/jungle/magenta": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/freezer/cyan": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_cyan": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/tax_block": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/acacia/magenta": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_black": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/mangrove/orange": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/jungle/blue": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_yellow": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/bamboo/green": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/bamboo/black": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/cherry/blue": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/bookshelf/acacia": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/auction_stand/crimson": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/mangrove/cyan": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/spruce/gray": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/red": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/cherry/lime": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf2/mangrove": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/vending_machine/dye_brown": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/auction_stand/spruce": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/light_gray": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/mangrove/red": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_green": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/brown": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/bamboo/gray": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/cherry/white": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf/oak": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/acacia/red": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/ticket_kiosk": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/oak/magenta": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/gem_terminal": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/birch/lime": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/cherry/yellow": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_blue": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/vending_machine/dye_lime": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/item_capacity_upgrade_3": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/item_capacity_upgrade_1": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/item_capacity_upgrade_2": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/create_template": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/vending_machine/dye_blue": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/acacia/orange": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/mangrove/purple": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/gem_terminal_swap": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/jungle/lime": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/birch/magenta": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/network/item_network_trader_2": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/network/item_network_trader_3": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/network/item_network_trader_4": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/network/item_network_trader_1": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/warped/magenta": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/bookshelf/dark_oak": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/birch/orange": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/acacia/light_gray": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/acacia/white": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/auction_stand/jungle": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/crimson/black": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/mangrove/black": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/oak/light_blue": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/mangrove/green": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/birch/blue": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf/spruce": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/oak/pink": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/jungle/orange": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/spruce/brown": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/freezer/orange": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/portable_terminal_swap": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf/mangrove": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/cherry/cyan": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/cherry/red": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/birch/cyan": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/jungle/gray": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/oak/white": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/vending_machine_large": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:currency/trader": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/network_upgrade": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/cherry/magenta": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/bamboo/magenta": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/birch/purple": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/crimson/white": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/warped/yellow": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/mangrove/white": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/auction_stand/birch": {
+    "criteria": {
+      "trader": "2024-10-05 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2024-10-05 20:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-10-05 20:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-10-05 20:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-10-05 20:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-10-05 20:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2024-10-05 20:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-10-05 20:29:54 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/scythes/scythe_skull_scythe": {
+    "criteria": {
+      "has_bone_block": "2024-10-05 20:37:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-10-05 20:37:21 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_lost_souls": {
+    "criteria": {
+      "has_bone_block": "2024-10-05 20:37:21 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_boneclub": {
+    "criteria": {
+      "has_bone_block": "2024-10-05 20:37:21 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_bone_cudgel": {
+    "criteria": {
+      "has_bone_block": "2024-10-05 20:37:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/warped_cabinet": {
+    "criteria": {
+      "has_warped_trapdoor": "2024-10-05 21:23:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2024-10-05 21:30:43 +0000",
+      "minecraft:creeper": "2024-10-05 21:29:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-10-05 21:29:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2024-10-05 21:29:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-10-05 21:29:03 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_pink_scoundrel": {
+    "criteria": {
+      "has_gunpowder": "2024-10-05 21:29:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-10-05 21:29:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-10-05 21:30:47 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coin_netherite_from_pile": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_slayer": {
+    "criteria": {
+      "has_base": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_iron_to_wallet_diamond": {
+    "criteria": {
+      "coin": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinpile_emerald_from_block": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinpile_netherite_from_coin": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/hopper_upgrade": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/coin_mint/coin_mint/mint_coin_netherite": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/atm": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_iron_to_wallet_netherite": {
+    "criteria": {
+      "coin": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinpile_iron_from_block": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coin_emerald_from_pile": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinpile_copper_from_block": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_scatter": {
+    "criteria": {
+      "has_base": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/coin_mint/coin_mint/melt_coin_emerald": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/coin_mint/coin_mint/mint_coin_gold": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/coin_mint/coin_mint/melt_coin_gold": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_emerald_to_wallet_diamond": {
+    "criteria": {
+      "coin": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_copper_to_wallet_emerald": {
+    "criteria": {
+      "coin": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/speed_upgrade_1": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/speed_upgrade_2": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/speed_upgrade_3": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/speed_upgrade_4": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/speed_upgrade_5": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_copper_to_wallet_netherite": {
+    "criteria": {
+      "coin": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_burst": {
+    "criteria": {
+      "has_base": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coin_copper_from_pile": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinpile_emerald_from_coin": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinpile_gold_from_coin": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coin_diamond_from_pile": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/portable_atm_swap": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinpile_diamond_from_block": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/coin_mint/coin_mint/melt_coin_diamond": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/wallet_diamond": {
+    "criteria": {
+      "coin": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_exploding": {
+    "criteria": {
+      "has_base": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/decorations/coin_jar/blue": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/wallet_copper": {
+    "criteria": {
+      "coin": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_gold_to_wallet_diamond": {
+    "criteria": {
+      "coin": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_gold_to_wallet_netherite": {
+    "criteria": {
+      "coin": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/coin_mint/coin_mint/mint_coin_diamond": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/wallet_gold": {
+    "criteria": {
+      "coin": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_iron_to_wallet_gold": {
+    "criteria": {
+      "coin": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinblock_iron_from_pile": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinpile_copper_from_coin": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000",
+      "coin": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_heavy": {
+    "criteria": {
+      "has_base": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coin_chest": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/wallet_netherite": {
+    "criteria": {
+      "coin": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_copper_to_wallet_gold": {
+    "criteria": {
+      "coin": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_copper_to_wallet_diamond": {
+    "criteria": {
+      "coin": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coin_gold_from_pile": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/coin_chest_exchange_upgrade": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinblock_emerald_from_pile": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_iron_to_wallet_emerald": {
+    "criteria": {
+      "coin": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/trading_core": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_slicer": {
+    "criteria": {
+      "has_base": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/coin_mint/coin_mint/melt_coin_netherite": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/coin_mint/coin_mint/mint_coin_iron": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_copper_to_wallet_iron": {
+    "criteria": {
+      "coin": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/coin_mint/coin_mint/melt_coin_iron": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinpile_iron_from_coin": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinblock_netherite_from_pile": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinblock_diamond_from_pile": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/coin_mint/coin_mint/melt_coin_copper": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/coin_chest_magnet_upgrade_1": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/coin_chest_magnet_upgrade_2": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/coin_chest_magnet_upgrade_3": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/coin_chest_magnet_upgrade_4": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/coin_chest_security_upgrade": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinblock_copper_from_pile": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:currency/root": {
+    "criteria": {
+      "coin": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_voidcaller_crossbow": {
+    "criteria": {
+      "has_base": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coin_iron_from_pile": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_azure_seeker": {
+    "criteria": {
+      "has_base": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_shadow_crossbow": {
+    "criteria": {
+      "has_base": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_gold_to_wallet_emerald": {
+    "criteria": {
+      "coin": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/atm_swap": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_diamond_to_wallet_netherite": {
+    "criteria": {
+      "coin": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/wallet_emerald": {
+    "criteria": {
+      "coin": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/decorations/coin_jar/piggy_bank": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coinmint": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:currency/myfirstpenny": {
+    "criteria": {
+      "coin": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/coin_mint/coin_mint/mint_coin_emerald": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_emerald_to_wallet_netherite": {
+    "criteria": {
+      "coin": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_harpoon_crossbow": {
+    "criteria": {
+      "has_base": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinpile_diamond_from_coin": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/decorations/coin_jar/sus_jar": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinblock_gold_from_pile": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/ticket_station": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/wallet_iron": {
+    "criteria": {
+      "coin": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinpile_netherite_from_block": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_rapid": {
+    "criteria": {
+      "has_base": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinpile_gold_from_block": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/coin_mint/coin_mint/mint_coin_copper": {
+    "criteria": {
+      "money": "2024-10-05 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2024-10-05 21:51:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2024-10-05 21:51:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-10-05 21:51:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-10-05 21:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-10-06 14:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-10-06 14:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-10-06 14:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-10-06 14:15:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-10-06 14:15:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-10-06 14:15:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-10-06 14:15:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-10-06 14:15:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-10-06 14:15:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-10-06 14:20:15 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/architectscutter": {
+    "criteria": {
+      "has_log": "2024-10-06 14:20:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-10-06 14:20:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-10-06 14:20:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2024-10-06 14:20:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2024-10-06 14:20:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-10-06 14:23:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-10-06 14:23:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-10-06 14:23:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-10-06 14:23:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2024-10-06 14:24:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2024-10-06 14:26:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_gray_carpet_from_dye": {
+    "criteria": {
+      "has_wool_carpet": "2024-10-06 14:50:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_red_carpet_from_dye": {
+    "criteria": {
+      "has_wool_carpet": "2024-10-06 14:50:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blue_carpet_from_dye": {
+    "criteria": {
+      "has_wool_carpet": "2024-10-06 14:50:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_carpet_from_dye": {
+    "criteria": {
+      "has_wool_carpet": "2024-10-06 14:50:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_carpet_from_dye": {
+    "criteria": {
+      "has_wool_carpet": "2024-10-06 14:50:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_purple_carpet_from_dye": {
+    "criteria": {
+      "has_wool_carpet": "2024-10-06 14:50:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_pink_carpet_from_dye": {
+    "criteria": {
+      "has_wool_carpet": "2024-10-06 14:50:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_green_carpet_from_dye": {
+    "criteria": {
+      "has_wool_carpet": "2024-10-06 14:50:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_carpet_from_dye": {
+    "criteria": {
+      "has_wool_carpet": "2024-10-06 14:50:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_lime_carpet_from_dye": {
+    "criteria": {
+      "has_wool_carpet": "2024-10-06 14:50:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_carpet_from_dye": {
+    "criteria": {
+      "has_wool_carpet": "2024-10-06 14:50:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_carpet_from_dye": {
+    "criteria": {
+      "has_wool_carpet": "2024-10-06 14:50:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_carpet_from_dye": {
+    "criteria": {
+      "has_wool_carpet": "2024-10-06 14:50:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_carpet_from_dye": {
+    "criteria": {
+      "has_wool_carpet": "2024-10-06 14:50:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_black_carpet_from_dye": {
+    "criteria": {
+      "has_wool_carpet": "2024-10-06 14:50:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_carpet_from_dye": {
+    "criteria": {
+      "has_wool_carpet": "2024-10-06 14:50:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-10-06 14:55:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-10-06 14:55:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-10-06 14:55:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-10-06 14:55:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-10-06 14:55:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-10-06 14:55:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-06 14:55:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-06 14:55:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-06 14:55:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-06 14:55:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-06 14:55:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-06 14:55:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-06 14:55:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-06 14:55:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-06 14:55:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-10-06 15:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-10-06 15:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-10-06 15:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-10-06 15:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-10-06 15:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-10-06 15:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-10-06 15:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-10-06 15:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-10-06 15:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-10-06 15:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-10-06 15:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-10-06 15:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-10-06 15:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-10-06 15:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-10-06 15:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-10-06 15:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-10-06 15:13:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-10-06 15:13:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2024-10-06 15:13:18 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_sabrewing": {
+    "criteria": {
+      "has_dandelion": "2024-10-08 16:33:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-10-08 16:33:00 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/jerrycan": {
+    "criteria": {
+      "has_bucket": "2024-10-08 16:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/scythes/scythe_jailors_scythe": {
+    "criteria": {
+      "has_chain": "2024-10-08 16:51:39 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_flail": {
+    "criteria": {
+      "has_chain": "2024-10-08 16:51:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-10-08 16:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2024-10-08 16:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-10-08 16:54:24 +0000"
+    },
+    "done": true
+  },
+  "duckling:pet_duck": {
+    "criteria": {
+      "pet_duck": "2024-10-08 17:00:30 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/magenta_floating_carpet": {
+    "criteria": {
+      "has_carpet": "2024-10-08 17:06:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/glow_display_case": {
+    "criteria": {
+      "has_item_frame": "2024-10-08 17:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-10-08 17:27:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-10-08 17:27:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-10-08 17:28:14 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/lantern": {
+    "criteria": {
+      "has_glowstone": "2024-10-08 17:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-10-08 17:28:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2024-10-08 17:31:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-10-08 17:31:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-10-08 17:31:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-10-08 17:31:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-10-08 17:31:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2024-10-08 17:31:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2024-10-08 17:31:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-10-08 17:31:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2024-10-08 17:31:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2024-10-08 17:31:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-10-08 17:31:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2024-10-08 17:31:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-10-08 17:31:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2024-10-08 17:31:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-10-08 17:31:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2024-10-08 17:31:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2024-10-08 17:31:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-10-08 17:31:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
+    "criteria": {
+      "has_sign": "2024-10-08 17:31:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2024-10-08 17:31:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-10-08 17:31:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-10-08 17:31:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
+    "criteria": {
+      "has_cobblestone": "2024-10-08 17:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-10-08 17:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-10-08 17:42:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2024-10-08 17:42:33 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/cobblestone_extra": {
+    "criteria": {
+      "has_material": "2024-10-08 17:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-10-08 17:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-10-08 17:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-10-08 17:42:33 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/blue_cobblestone_extra": {
+    "criteria": {
+      "has_material": "2024-10-08 17:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-10-08 17:42:33 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/stone_basic_shield": {
+    "criteria": {
+      "has_cobblestone": "2024-10-08 17:42:33 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/stone_tower_shield": {
+    "criteria": {
+      "has_cobblestone": "2024-10-08 17:42:33 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/green_cobblestone_extra": {
+    "criteria": {
+      "has_material": "2024-10-08 17:42:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2024-10-08 17:42:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2024-10-08 17:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-10-08 17:42:33 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/purple_cobblestone_extra": {
+    "criteria": {
+      "has_material": "2024-10-08 17:42:33 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-10-08 18:40:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-10-08 18:40:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-10-08 18:40:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-10-08 18:40:16 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_fence_gate_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-10-08 18:40:16 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_fence_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-10-08 18:40:16 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-10-08 18:40:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-10-08 18:40:16 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_stairs_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-10-08 18:40:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-10-08 18:40:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2024-10-08 18:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2024-10-08 18:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2024-10-08 18:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2024-10-08 18:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2024-10-08 18:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2024-10-08 18:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-10-08 18:58:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-10-08 18:58:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-10-08 18:58:18 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_heartstealer": {
+    "criteria": {
+      "has_redstone_block": "2024-10-08 18:58:28 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_stormlander": {
+    "criteria": {
+      "has_redstone_block": "2024-10-08 18:58:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2024-10-08 18:58:28 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/dark_armor_helmet": {
+    "criteria": {
+      "has_redstone_block": "2024-10-08 18:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-10-08 18:58:28 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/longbows/bow_red_snake": {
+    "criteria": {
+      "has_redstone_block": "2024-10-08 18:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-10-08 19:36:49 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/mossy_cobblestone_extra": {
+    "criteria": {
+      "has_material": "2024-10-08 20:16:34 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/minecart_woodencrate": {
+    "criteria": {
+      "has_minecart": "2024-10-08 19:29:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-10-08 19:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-10-08 19:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-10-08 20:16:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-10-08 19:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-10-08 19:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-10-08 19:36:49 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/conveyor_dropper": {
+    "criteria": {
+      "has_trapdoor": "2024-10-08 20:34:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-10-08 20:16:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-10-08 20:16:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2024-10-08 19:29:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/crimson_cabinet": {
+    "criteria": {
+      "has_crimson_trapdoor": "2024-10-08 20:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2024-10-08 20:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-10-08 20:16:34 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_pink": {
+    "criteria": {
+      "has_pink_wool": "2024-10-08 20:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2024-10-08 20:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-10-08 19:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2024-10-08 19:29:41 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_pink": {
+    "criteria": {
+      "has_pink_wool": "2024-10-08 20:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-10-08 20:26:19 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/minecart_woodenbarrel": {
+    "criteria": {
+      "has_minecart": "2024-10-08 19:29:41 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/minecart_metalbarrel": {
+    "criteria": {
+      "has_minecart": "2024-10-08 19:29:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-10-08 19:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockconstructiontape": {
+    "criteria": {
+      "has_wool": "2024-10-08 20:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2024-10-08 19:29:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-10-08 19:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-10-08 19:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-10-08 19:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2024-10-08 19:29:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-10-08 19:36:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cherry_cabinet": {
+    "criteria": {
+      "has_cherry_trapdoor": "2024-10-08 20:35:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2024-10-08 19:29:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-10-08 19:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-10-08 20:16:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2024-10-08 20:35:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-10-08 19:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2024-10-08 20:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-10-08 20:16:34 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/minecart_reinforcedcrate": {
+    "criteria": {
+      "has_minecart": "2024-10-08 19:29:41 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

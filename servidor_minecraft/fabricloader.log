@@ -1,0 +1,4 @@
+[03:47:51] [WARN] [FabricLoader/Resolution]: Mod resolution failed
+[03:47:51] [INFO] [FabricLoader/Resolution]: Immediate reason: [HARD_DEP_NO_CANDIDATE mcda 5.0.2 {depends cloth-config2 @ [*]}, ROOT_FORCELOAD_SINGLE mcda 5.0.2]
+[03:47:51] [INFO] [FabricLoader/Resolution]: Reason: [HARD_DEP mcda 5.0.2 {depends cloth-config2 @ [*]}, HARD_DEP mcdw 9.0.4 {depends cloth-config2 @ [*]}]
+[03:47:51] [INFO] [FabricLoader/Resolution]: Fix: add [add:cloth-config2 1 ([(-∞,∞)])], remove [], replace []
